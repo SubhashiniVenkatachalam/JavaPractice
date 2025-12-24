@@ -36,6 +36,5 @@ public class InterfaceDemo {
         Developer dev = new Developer();
         dev.code(desk);
         dev.code(lap);
-
     }
 }
